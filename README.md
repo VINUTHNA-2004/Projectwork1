@@ -25,14 +25,14 @@ SOFTWARE REQUIREMENTS:
 - Version Control System
 - Integrated Development Environment (IDE)
 
-* Functional Requirements:
+FUNCTIONAL REQUIREMENTS:
 - Data Ingestion and Connectivity.
 - Metadata Extraction and Profiling.
 - Batch and Real-time Processing.
 - Data Cleaning .
 - Reporting and Visualization.
   
-* Non-Functional Requirements:
+NON - FUNCTIONAL REQUIREMENTS :
 - Performance
 - Scalability
 - Reliability
@@ -43,6 +43,10 @@ SOFTWARE REQUIREMENTS:
 ##  METHODOLOGY
 <!--Embed the system architecture diagram as shown below-->
 ![1](https://github.com/user-attachments/assets/00292091-1153-4d3e-917b-d8e0826722e2)
+
+## FLOW CHART
+<!--Embed the system architecture diagram as shown below-->
+![F](https://github.com/user-attachments/assets/7aa89ac8-6496-458b-a12c-a3f6cb638d88)
 
 ## Output
 
