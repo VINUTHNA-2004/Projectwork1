@@ -1,59 +1,86 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+##  AUTOMATED DATA PROFILING USING AI TECHNIQUES WITH ML
+Data profiling, the methodical process of identifying and documenting the properties of data sets, is becoming more and more important as the market for artificial intelligence expands. 
+Dataprofiling can help you find potential knowledge opportunities and evaluate how well your data is being maintained if you want to improve the quality of your data
 
 ## About
 <!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+Automated data profiling tools can collect and analyse data from multiple sources, and provide insights into the quality, accuracy, completeness, and consistency of the data. Automated data profiling tools can perform tasks such as identifying data types, detecting data anomalies, determining data patterns, and identifying data relationships. As well as providing the training data that is needed to train models, when using Auto ML you can specify what type of model validation to perform. This model validation takes place during training, when automated ML uses validation data to tune model hyperparameters based on the applied algorithm to find the combination that best fits the training data. The same validation data is used for each iteration of tuning, which introduces model evaluation bias since the model continues to improve and fit to the validation data . After the validation then we will get the report for the data. Then we can come to know that which model is more efficient then that will give the best data profiling.
 
 ## Features
 <!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- Data Quality Assessment.
+- Data Distribution Analysis
+- Data Relationship Discovery
+- Data Summarization
+- Automated Data Classification
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+SOFTWARE REQUIREMENTS:
+- Operating System
+- Development Frameworks
+- Cloud Services
+- Data Visualization Tools
+- Machine Learning Libraries
+- Version Control System
+- Integrated Development Environment (IDE)
 
-## System Architecture
+* Functional Requirements:
+- Data Ingestion and Connectivity.
+- Metadata Extraction and Profiling.
+- Batch and Real-time Processing.
+- Data Cleaning .
+- Reporting and Visualization.
+  
+* Non-Functional Requirements:
+- Performance
+- Scalability
+- Reliability
+- Usability	
+- Security
+- Maintainability
+
+##  METHODOLOGY
 <!--Embed the system architecture diagram as shown below-->
-
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
-
+![1](https://github.com/user-attachments/assets/00292091-1153-4d3e-917b-d8e0826722e2)
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Model Accuracy Comparision
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+![o1](https://github.com/user-attachments/assets/9ab56bc7-24d4-4ee9-a2e1-39a25efb9795)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+#### Output2 - Time taken vs RMSE for Different Models
+
+![o2](https://github.com/user-attachments/assets/5a7bc276-8184-47e6-bc58-f6b4e9bf349f)
+
+#### Output3 
+
+![o3](https://github.com/user-attachments/assets/22f6587a-4e23-44bf-86f8-5abe9aaf3a25)
+
 
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+Auto ML presents a powerful tool for automated data profiling, offering significant benefits in terms of speed, accuracy, and scalability,F1 score. By seeing these we get the best model among all other models .From these we get the better report of the data. The use of artificial intelligence and machine learning in data profiling is a great process that can increase the knowledge of an organization. This includes identifying data that is archived and is either wrong or missing or contains conflicting information or identifying data as belonging to a particular category such as the customer data content category, product data content category, or the transaction data content category. It groups the related data together, as well as presents the relationship between various characteristics of the data that was input to the machine learning algorithms. Therefore, data profiling for an organization would involve employing AI and machine learning to enhance data utilization and derive its value in the contemporary world economy.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
 
+1. Abedjan, Z., Golab, L., Naumann, F., Papenbrock, T.: Data profiling. Synth. Lect. Data Manag. 10(4), 1–154 (2019)
+2. FernandesA.X. et al.Big data analytics for vehicle multisensory anomalies detection Procedia Comput. Sci. (2022)
+3. HaixiangG. et al.Learning from class-imbalanced data: Review of methods and applicationsExpert Syst. Appl.(2017)
+4. RidzuanF. et al.A review on data cleansing methods for big data Procedia Comput. Sci.(2019)
+5. SantosM.S. et al.A new cluster-based oversampling method for improving survival prediction of hepatocellular carcinoma patients J. Biomed. Inform.(2015)
+6. TrigueroI. et al.Transforming big data into smart data: An insight on the use of the k-nearest neighbors algorithm to obtain quality dataWiley Interdiscip. Rev.: Data Min. Knowl. Discov.(2019)
+7. MazumderM. et al.Dataperf: Benchmarks for data-centric ai development(2022)
+8. Bougleux, S., et al. (2021):Detecting Data Inconsistencies Using Graph Neural Networks. IEEE Big Data Conference.
+9. Berti-Équille, L. (2020). AI and ML Techniques for Data Quality Monitoring. International Journal of Data Governance.
+10. Jiang, Y., & Li, D. (2021). Machine Learning for Automated Data Profiling: A Case Study. IEEE Transactions on Knowledge Management.
+11. Schmidt, R., & Lyle, M. (2020). DataOps: Data Profiling and Data Quality in Agile Data Environments. O'Reilly Media.
+12. Sadler, B., & Khare, A. (2022).Scalable Data Profiling Using Machine Learning for Cloud-Based Data Lakes. IEEE Cloud Computing.
 
 
 
